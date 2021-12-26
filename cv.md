@@ -15,6 +15,7 @@ I am well organized and always plan ahead to make sure I manage my time well.
 ## Skills ##
 * HTML5
 * CSS
+* JavaScript
 
 ------
 
