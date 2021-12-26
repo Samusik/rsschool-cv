@@ -16,6 +16,7 @@ I am well organized and always plan ahead to make sure I manage my time well.
 * HTML5
 * CSS
 * JavaScript
+* Git/Github
 
 ------
 
